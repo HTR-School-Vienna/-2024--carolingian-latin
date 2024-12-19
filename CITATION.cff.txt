@@ -1,0 +1,77 @@
+cff-version: 1.12.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Grifoni
+    given-names: Cinzia
+    orcid: https://orcid.org/0000-0002-0560-6031
+  - family-names: Pürstinger
+    given-names: Leon
+    orcid: https://orcid.org/0000-0002-7027-1020
+  - family-names: Mantegazza
+    given-names: Fabio
+    orcid: https://orcid.org/0009-0003-1254-0952
+  - family-names: De Luca
+    given-names: Elena
+    orcid: https://orcid.org/0009-0001-0851-4909
+  - family-names: Meehan
+    given-names: Eddie
+    orcid: https://orcid.org/0000-0003-3138-1048
+  - family-names: Schulz
+    given names: Daniela
+    orcid: https://orcid.org/0000-0003-3167-5089
+  - family-names: Stüber
+    given-names: Till
+    orcid: https://orcid.org/0000-0003-3917-1280
+  - family-names: Riepl
+    given names: Elena Alexa
+    orcid: https://orcid.org/0009-0004-3455-341X
+  - family-names: Bertoletti
+    given-names: Camilla
+    orcid: https://orcid.org/0000-0002-4333-0670
+  - family-names: Bitner
+    given-names: Kendall M.
+    orcid: https://orcid.org/0000-0002-6238-878X+
+  - family-names: Weis
+    given-names: William
+    orcid: https://orcid.org/0009-0005-6711-922X
+  - family-names: Napoletano
+    given-names: Leonardo
+    orcid: https://orcid.org/0009-0007-3188-0476+
+  - family-names: Carandino
+    given-names: Martina
+    orcid: https://orcid.org/0009-0007-5629-983X
+  - family-names: Ruberto
+    given-names: Silvio Lorenzo
+    orcid: https://orcid.org/0009-0006-8687-3874
+  - family-names: Pfeuffer
+    given-names: Nathalie
+    orcid: https://orcid.org/0009-0004-0245-9015
+  - family-names: Abelli
+    given-names: Luca
+    orcid: https://orcid.org/0009-0000-1748-2729
+  - family-names: Sieberichs
+    given-names: Anne
+    orcid: https://orcid.org/0009-0005-7983-0844
+  - family-names: Kulhová
+    given-names: Barbora
+    orcid: https://orcid.org/0009-0006-6233-7268
+  - family-names: Heydemann
+    given-names: Gerda
+    orcid: https://orcid.org/0000-0002-2584-7190
+  - family-names: Steurer
+    given-names: Ukrike
+    orcid: https://orcid.org/0009-0001-0398-010X
+  - family-names: van der Most
+    given-names: Jesper
+    orcid: https://orcid.org/0009-0009-2057-6780
+  - family-names: Moens
+    given-names: Lode
+    orcid: https://orcid.org/0009-0002-0545-3423
+
+       
+title: "HTR Winter School 2024 - Carolingian Latin"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value:
+date-released: 2024-12-19
