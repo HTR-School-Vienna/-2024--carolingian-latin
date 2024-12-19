@@ -1,0 +1,73 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Citation file HTR Carolingian Latin 2023-2024
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Cinzia
+    family-names: Grifoni
+    orcid: 'https://orcid.org/0000-0002-0560-6031'
+  - given-names: Fabio
+    family-names: Mantegazza
+    orcid: 'https://orcid.org/0009-0003-1254-0952'
+  - given-names: Elena
+    family-names: De Luca
+    orcid: 'https://orcid.org/0009-0001-0851-4909'
+  - given-names: Eddie
+    family-names: Meehan
+    orcid: 'https://orcid.org/0000-0003-3138-1048'
+  - given-names: 'Daniela '
+    family-names: Schulz
+    orcid: 'https://orcid.org/0000-0003-3167-5089'
+  - given-names: 'Till '
+    family-names: Stüber
+    orcid: 'https://orcid.org/0000-0003-3917-1280'
+  - given-names: Elena Alexa
+    family-names: Riepl
+    orcid: 'https://orcid.org/0009-0004-3455-341X'
+  - given-names: Camilla
+    family-names: Bertoletti
+    orcid: 'https://orcid.org/0000-0002-4333-0670'
+  - given-names: Kendall M.
+    family-names: Bitner
+    orcid: 'https://orcid.org/0000-0002-6238-878X'
+  - given-names: Leonardo
+    family-names: Napoletano
+    orcid: 'https://orcid.org/0009-0007-3188-0476'
+  - given-names: Martina
+    family-names: Carandino
+    orcid: 'https://orcid.org/0009-0007-5629-983X'
+  - given-names: Silvio Lorenzo
+    family-names: Ruberto
+    orcid: 'https://orcid.org/0009-0006-8687-3874'
+  - given-names: Nathalie
+    family-names: Pfeuffer
+    orcid: 'https://orcid.org/0009-0004-0245-9015'
+  - given-names: Luca
+    family-names: Abelli
+    orcid: 'https://orcid.org/0009-0000-1748-2729'
+  - given-names: Leon
+    family-names: Pürstinger
+    orcid: 'https://orcid.org/0000-0002-7027-1020'
+  - given-names: Anne
+    family-names: Sieberichs
+    orcid: 'https://orcid.org/0009-0005-7983-0844'
+  - given-names: Barbora
+    family-names: Kulhová
+    orcid: 'https://orcid.org/0009-0006-6233-7268'
+  - given-names: Gerda
+    family-names: Heydemann
+    orcid: 'https://orcid.org/0000-0002-2584-7190'
+  - given-names: Ulrike
+    family-names: Steurer
+    orcid: 'https://orcid.org/0009-0001-0398-010X'
+keywords:
+  - Carolingian Latin
+  - 'Cod. Vienna, ÖNB 940'
+  - Biblical Exegesis
+  - Gospel commentary
+license: CC-BY-4.0
