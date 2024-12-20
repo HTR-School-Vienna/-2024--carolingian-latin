@@ -2,13 +2,13 @@
 ## HTR Winter School 2024 - Carolingian Latin ÖNB 940
  
 Ground truth of some part ÖNB Cod. 940, ff. 13r - 142v: automatically read pages with Transkribus
- 
+
 **ATTENTION**: To clone this repo you need to have [Git LFS](https://git-lfs.com/) installed and then clone the repository like this:
- 
+
 ```
 git lfs clone git@github.com:htr-school-vienna/2024--carolingian-latin.git
 ```
- 
+
 ## Description
 - An anonymous Irish commentary on the Gospel of Matthew (end of the 8th/early 9th c.), from a manuscript from Salzburg/Saint Amand possibly under bishop Arn (785-821).
 - Files: 2
