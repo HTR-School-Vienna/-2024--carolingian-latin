@@ -1,12 +1,12 @@
 
 ## HTR Winter School 2024 - Carolingian Latin ÖNB 940
  
-Short description of the record: Ground truth of some part ÖNB Cod. 940, ff. 13r - 142v: automatically read pages with Transkribus
+Ground truth of some part ÖNB Cod. 940, ff. 13r - 142v: automatically read pages with Transkribus
  
-**ATTENTION**: To clone this repo you need to have [Git LFS](~[https://git-lfs.com/](https://git-lfs.com/)~) installed and then clone the repository like this:
+**ATTENTION**: To clone this repo you need to have [Git LFS](https://git-lfs.com/) installed and then clone the repository like this:
  
 ```
-git lfs clone ~[git@github.com:htr-school-vienna/\[your_repository_name\].git](mailto:git@github.com:htr-school-vienna/%5byour_repository_name%5d.git)~ ~[https://github.com/HTR-School-Vienna/2024--carolingian-latin](https://github.com/HTR-School-Vienna/2024--carolingian-latin)~
+git lfs clone git@github.com:htr-school-vienna/2024--carolingian-latin.git
 ```
  
 ## Description
